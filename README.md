@@ -10,9 +10,9 @@ Analyzing how location, gender and age group affect the performance of half mara
 
 ### Research Questions to Answer:
 
-*- How does training location correlate to the total time to finish the half marathon.
-*- Does Gender affect the runners’ performance?
-*- Does age group affect the runners’ performance?
+* How does training location correlate to the total time to finish the half marathon.
+* Does Gender affect the runners’ performance?
+* Does age group affect the runners’ performance?
 
 ### Datasets to be used:
 
