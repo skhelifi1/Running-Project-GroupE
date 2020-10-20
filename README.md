@@ -1,27 +1,27 @@
-###Running-Project-GroupE
+# Running-Project-GroupE
 
-##Project Title: Factors Affecting Half Marathon Runners’ Performance
+## Project Title: Factors Affecting Half Marathon Runners’ Performance
 
-#Team Members: Gabriel New, Lisa McGowan, Daniel Conrad, Sirine Khelifi
+### Team Members: Gabriel New, Lisa McGowan, Daniel Conrad, Sirine Khelifi
 
-#Project Description/Outline: 
+### Project Description/Outline: 
 
 Analyzing how location, gender and age group affect the performance of half marathon runners.
 
-#Research Questions to Answer:
+### Research Questions to Answer:
 
 1- How does training location correlate to the total time to finish the half marathon.
 2- Does Gender affect the runners’ performance?
 3- Does age group affect the runners’ performance?
 
-#Datasets to be used:
+### Datasets to be used:
 
 https://github.com/llimllib/bostonmarathon/tree/master/results
 https://www.baa.org/races/baa-half-marathon/results 
 http://registration.baa.org/2019/cf/Media/iframe_ResultsSearch.cfm?mode=advanced
 https://results.nyrr.org/races
 
-#Rough Breakdown of Tasks:
+### Rough Breakdown of Tasks:
 
 Data Research
 
