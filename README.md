@@ -16,10 +16,10 @@ Analyzing how location, gender and age group affect the performance of half mara
 
 ### Datasets to be used:
 
-https://github.com/llimllib/bostonmarathon/tree/master/results
-https://www.baa.org/races/baa-half-marathon/results 
-http://registration.baa.org/2019/cf/Media/iframe_ResultsSearch.cfm?mode=advanced
-https://results.nyrr.org/races
+- https://github.com/llimllib/bostonmarathon/tree/master/results
+- https://www.baa.org/races/baa-half-marathon/results 
+- http://registration.baa.org/2019/cf/Media/iframe_ResultsSearch.cfm?mode=advanced
+- https://results.nyrr.org/races
 
 ### Rough Breakdown of Tasks:
 
