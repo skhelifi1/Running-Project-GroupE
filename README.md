@@ -58,3 +58,10 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 -Testing 
 
 -Presentation 
+
+### Break down by question
+
+* Question 1
+* Question 2
+* Question 3
+* Question 4
