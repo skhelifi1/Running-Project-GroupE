@@ -43,18 +43,18 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 ### Rough Breakdown of Tasks:
 
-####Data Research
+-Data Research
 
-####Cleaning of Data
+-Cleaning of Data
 
-####Break down of coding section:
+-Break down of coding section:
 
-.Create Dataframe relevant to the hypothesis.
-.Sort by relevant variable.
-.Use Matplotlib to create charts that best represent the data.
-.Use statistics such as the t-test and p-test.
-.Draw conclusions
+*Create Dataframe relevant to the hypothesis.
+*Sort by relevant variable.
+*Use Matplotlib to create charts that best represent the data.
+*Use statistics such as the t-test and p-test.
+*Draw conclusions
 
-####Testing 
+-Testing 
 
-####Presentation 
+-Presentation 
