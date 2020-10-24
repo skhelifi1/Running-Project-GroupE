@@ -64,10 +64,10 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 ### Break down by question
 
-* ###Question 1
+#### Question 1
 - Create dataframe that will list Cities to pull Latitudes and longitudes using API key.
 
-- Use Lat and long to obtain Elevation using API key.
+    - Use Lat and long to obtain Elevation using API key.
 
 - Add a column of elevation data to the Dataframe.
 
@@ -77,7 +77,7 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 - Exports charts as elevation .png file.
 
-* Question 2
+#### Question 2
 - Create a dataframe that sorts the data by gender.
 
 - Create a stat summary table for each gender.
