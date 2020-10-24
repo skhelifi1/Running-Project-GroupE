@@ -34,7 +34,7 @@ Alternate Hypothesis: If humidity is related to runner's performance then runner
 Null-Hypotheses: If humidity is not related to runner's performance then runners from high humidity cities would not have shorter finishing time.
 
 
-### Datasets to be used:
+### Datasets and resources to be used:
 
 - https://github.com/llimllib/bostonmarathon/tree/master/results
 
@@ -42,7 +42,7 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 - https://openweathermap.org/api
 
-- 
+- https://developers.google.com/maps/documentation/elevation/overview
 
 ### Rough Breakdown of Tasks:
 
@@ -64,7 +64,7 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 ### Break down by question
 
-* Question 1
+* ###Question 1
 - Create dataframe that will list Cities to pull Latitudes and longitudes using API key.
 
 - Use Lat and long to obtain Elevation using API key.
