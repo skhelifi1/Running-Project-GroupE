@@ -1,6 +1,6 @@
 # Running-Project-GroupE
 
-## Project Title: Factors Affecting Half Marathon Runners’ Performance
+## Project Title: Factors Affecting Marathon Runners’ Performance
 
 ### Team Members: Gabriel New, Lisa McGowan, Daniel Conrad, Sirine Khelifi
 
