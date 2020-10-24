@@ -58,8 +58,6 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 * Use statistics such as the t-test and p-test.
 * Draw conclusions
 
--Testing 
-
 -Presentation 
 
 ### Break down by question
@@ -69,7 +67,7 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
     - Use Lat and long to obtain Elevation using API key.
 
-- Add a column of elevation data to the Dataframe.
+    - Add a column of elevation data to the Dataframe.
 
 - Create a Stat summary table.
 
@@ -86,10 +84,10 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 - Exports charts as gender .png file.
 
-* Question 3
-- Create bins for age groups. 
-
+#### Question 3
 - Create a dataframe that sorts the data by age group.
+   
+   - Create bins for age groups. 
 
 - Create a stat summary table for each age group.
 
@@ -97,12 +95,14 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 
 - Exports charts as age .png file.
 
-* Question 4
+#### Question 4
 - Sort the dataframe by cities.
 
-- Obtain humidity data for each city.
+- Create a dataframe that includes humidity.
 
-- Add a column of humidity data to the dataframe.
+    - Obtain humidity data for each city.
+
+    - Add a column of humidity data to the dataframe.
 
 - Create a stat summary table.
 
