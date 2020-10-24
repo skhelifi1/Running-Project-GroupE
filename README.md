@@ -6,7 +6,7 @@
 
 ### Project Description/Outline: 
 
-Analyzing how location, gender and age group affect the performance of half marathon runners.
+Analyzing how location, gender, age group and humidity affect the performance of full marathon runners.
 
 ### Research Questions to Answer:
 1. How does training location correlate to the total time to finish the full marathon.
@@ -37,9 +37,12 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 ### Datasets to be used:
 
 - https://github.com/llimllib/bostonmarathon/tree/master/results
-- https://www.baa.org/races/baa-half-marathon/results 
+
 - http://registration.baa.org/2019/cf/Media/iframe_ResultsSearch.cfm?mode=advanced
-- https://results.nyrr.org/races
+
+- https://openweathermap.org/api
+
+- 
 
 ### Rough Breakdown of Tasks:
 
@@ -62,6 +65,47 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 ### Break down by question
 
 * Question 1
+- Create dataframe that will list Cities to pull Latitudes and longitudes using API key.
+
+- Use Lat and long to obtain Elevation using API key.
+
+- Add a column of elevation data to the Dataframe.
+
+- Create a Stat summary table.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as elevation .png file.
+
 * Question 2
+- Create a dataframe that sorts the data by gender.
+
+- Create a stat summary table for each gender.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as gender .png file.
+
 * Question 3
+- Create bins for age groups. 
+
+- Create a dataframe that sorts the data by age group.
+
+- Create a stat summary table for each age group.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as age .png file.
+
 * Question 4
+- Sort the dataframe by cities.
+
+- Obtain humidity data for each city.
+
+- Add a column of humidity data to the dataframe.
+
+- Create a stat summary table.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as humidity .png file.
