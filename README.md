@@ -9,7 +9,7 @@
 Analyzing how location, gender, age group and humidity affect the performance of full marathon runners.
 
 ### Research Questions to Answer:
-1. How does training location correlate to the total time to finish the full marathon.
+1. How does training location correlate to the total time to finish the full marathon? (Jacob says: Here you mention "training location" ... but below you mention "training elevation", will need to use one or the other... the sentence structure is good though)
 
 Alternate Hypothesis: If elevation is related to the total time to finish the full marathon then runners from a higher elevation city than the Marathon location would result in a shorter finishing time.
 
@@ -27,7 +27,7 @@ Alternate Hypothesis: If age group is related to the runner's performance then y
 
 Null-Hypothesis: If age group is not related to the runner's performance then younger runners would not have a shorter finishing time.
 
-4. Does Humidity affect the runner's performance?
+4. Does humidity affect the runner's performance?
 
 Alternate Hypothesis: If humidity is related to runner's performance then runners from high humidity cities would have shorter finishing time.
 
