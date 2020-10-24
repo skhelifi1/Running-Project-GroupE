@@ -34,7 +34,7 @@ Alternate Hypothesis: If humidity is related to runner's performance then runner
 Null-Hypotheses: If humidity is not related to runner's performance then runners from high humidity cities would not have shorter finishing time.
 
 
-### Datasets and resources to be used:
+### Datasets and resources used:
 
 - https://github.com/llimllib/bostonmarathon/tree/master/results
 
