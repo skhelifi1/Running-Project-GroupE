@@ -1,15 +1,15 @@
 # Running-Project-GroupE
 
-## Project Title: Factors Affecting Half Marathon Runners’ Performance
+## Project Title: Factors Affecting Marathon Runners’ Performance
 
 ### Team Members: Gabriel New, Lisa McGowan, Daniel Conrad, Sirine Khelifi
 
 ### Project Description/Outline: 
 
-Analyzing how location, gender and age group affect the performance of half marathon runners.
+Analyzing how location, gender, age group and humidity affect the performance of full marathon runners.
 
 ### Research Questions to Answer:
-1. How does training location correlate to the total time to finish the full marathon.
+1. How does training elevation correlate to the total time to finish the full marathon.
 
 Alternate Hypothesis: If elevation is related to the total time to finish the full marathon then runners from a higher elevation city than the Marathon location would result in a shorter finishing time.
 
@@ -27,19 +27,24 @@ Alternate Hypothesis: If age group is related to the runner's performance then y
 
 Null-Hypothesis: If age group is not related to the runner's performance then younger runners would not have a shorter finishing time.
 
-4. Does Humidity affect the runner's performance?
+4. Does humidity affect the runner's performance?
 
 Alternate Hypothesis: If humidity is related to runner's performance then runners from high humidity cities would have shorter finishing time.
 
 Null-Hypotheses: If humidity is not related to runner's performance then runners from high humidity cities would not have shorter finishing time.
 
 
-### Datasets to be used:
+### Datasets and resources used:
 
 - https://github.com/llimllib/bostonmarathon/tree/master/results
-- https://www.baa.org/races/baa-half-marathon/results 
+
 - http://registration.baa.org/2019/cf/Media/iframe_ResultsSearch.cfm?mode=advanced
-- https://results.nyrr.org/races
+
+- https://openweathermap.org/api
+
+- https://developers.google.com/maps/documentation/elevation/overview
+
+- https://developers.google.com/maps/documentation/geocoding/overview
 
 ### Rough Breakdown of Tasks:
 
@@ -55,13 +60,54 @@ Null-Hypotheses: If humidity is not related to runner's performance then runners
 * Use statistics such as the t-test and p-test.
 * Draw conclusions
 
--Testing 
-
 -Presentation 
 
 ### Break down by question
 
-* Question 1
-* Question 2
-* Question 3
-* Question 4
+#### Question 1
+- Create dataframe that will list Cities to pull Latitudes and longitudes using API key.
+
+    - Use Lat and long to obtain Elevation using API key.
+
+    - Add a column of elevation data to the Dataframe.
+
+- Create a Stat summary table.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as elevation .png file.
+
+#### Question 2
+- Create a dataframe that sorts the data by gender.
+
+- Create a stat summary table for each gender.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as gender .png file.
+
+#### Question 3
+- Create a dataframe that sorts the data by age group.
+   
+   - Create bins for age groups. 
+
+- Create a stat summary table for each age group.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as age .png file.
+
+#### Question 4
+- Sort the dataframe by cities.
+
+- Create a dataframe that includes humidity.
+
+    - Obtain humidity data for each city.
+
+    - Add a column of humidity data to the dataframe.
+
+- Create a stat summary table.
+
+- Use Matplotlib to generate charts.
+
+- Exports charts as humidity .png file.
